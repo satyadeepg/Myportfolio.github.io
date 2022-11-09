@@ -43,11 +43,11 @@
 #resumbutton {
     border: 0px;
     border-radius: 5px;
-    color: #323f4b;
+    color: white;
     padding: 5px 15px;
     font-family: "Open Sans";
     font-weight: bold;
-    background-color: transparent;
+    background-color: grey;
 
 }
 #resumbutton:hover{
